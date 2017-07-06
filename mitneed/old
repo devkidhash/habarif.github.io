@@ -1,0 +1,87 @@
+        <!--  <div class="enjoy-css"></div>-->
+     <!--  <button type="button" class="bmd-modalButton" data-toggle="modal" data-bmdSrc="http://www.ustream.tv/embed/18597323?html5ui&showtitle=false" data-bmdWidth="500" data-bmdHeight="281" data-target="#myModal">Vimeo</button>
+
+<button type="button" class="bmd-modalButton" data-toggle="modal" data-bmdSrc='http://players.brightcove.net/665003303001/SkrZHHcl_default/index.html?videoId=4865263685001' data-bmdWidth="500" data-bmdHeight="281" data-target="#myModal">Aljazeera</button> -->
+
+
+            <!--<iframe src='http://players.brightcove.net/665003303001/SkrZHHcl_default/index.html?videoId=4865263685001' allowfullscreen frameborder=0></iframe> -->
+
+
+
+          <!-- MODAL: How it works 
+        <div class="modal fade" id="modal-video" tabindex="-1" role="dialog" aria-labelledby="modal-video-label">
+        	<div class="modal-dialog" role="document">
+        		<div class="modal-content">
+        			<div class="modal-header">
+        				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        					<span aria-hidden="true">&times;</span>
+        				</button>
+        			</div>
+        			<div class="modal-body">
+        				<div class="modal-video">
+	        				<div class="embed-responsive embed-responsive-16by9">
+			                    
+
+                                <iframe class="embed-responsive-item" width="480" height="270" src="https://www.ustream.tv/embed/23180754?html5ui&showtitle=false&color=e89a3e"  
+
+                                        webkitallowfullscreen  mozallowfullscreen allowfullscreen></iframe>
+			                </div>
+		                </div>
+        			</div>
+        		</div>
+        	</div>
+        </div> -->
+
+
+        <!-- MODAL: How it works 
+        <div class="modal fade" id="modal2-video" tabindex="-1" role="dialog" aria-labelledby="modal-video-label">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal2-video">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                
+
+                                <iframe class="embed-responsive-item" width="480" height="270" src="http://www.ustream.tv/embed/18597323?html5ui&showtitle=false"  
+
+                                        webkitallowfullscreen  mozallowfullscreen allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+        <!--aljazeera start
+           <div class="modal fade" id="aljnews" tabindex="-1" role="dialog" aria-labelledby="modal-video-label">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal2-video">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                
+
+                                <iframe  class="embed-responsive-item"  id="ls_embed_1497707974" src="https://livestream.com/accounts/11365479/events/3710862/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" 
+
+                                        webkitallowfullscreen  mozallowfullscreen allowfullscreen></iframe>
+
+                                       < <iframe src="https://livestream.com/accounts/11365479/events/3710862/player?width=960&height=540&autoPlay=true&mute=false" width="960" height="540" frameborder="0" scrolling="no"> </iframe> 
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+       <!-- <iframe src='http://players.brightcove.net/665003303001/SkrZHHcl_default/index.html?videoId=4865263685001' allowfullscreen frameborder=0></iframe> -->
